@@ -4,7 +4,7 @@ Some utility functions used for printing colored text.
 Yujia Li, 09/2014
 """
 
-_GOOD_COLOR_BEGINS = '\033[42m'
+_GOOD_COLOR_BEGINS = '\033[01;32m'
 _BAD_COLOR_BEGINS = '\033[41m'
 _COLOR_RESET = '\033[0m'
 
